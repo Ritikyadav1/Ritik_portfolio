@@ -220,7 +220,7 @@ span{
 }
 .portfolio-container{
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 2.5rem;
     align-items: center;
     /* margin: 3rem 10rem 3rem 10rem; */
@@ -2387,7 +2387,6 @@ hr {
         margin-top: 7rem;
     }
 
-
     @font-face {
         font-family: 'CustomIcons';
         src: url('https://icons8.com/icon/fiCYSJOnXi7E/level-up-your-coding-skills-and-quickly-land-a-job') format('woff');
@@ -2405,7 +2404,7 @@ hr {
         content: '\e901'; /* Unicode for CodeChef icon */
     }
     .icon {
-        width: 20px; /* Adjust the size as needed */
-        height: 15px;
+        width: 30px; /* Adjust the size as needed */
+        height: 20px;
         vertical-align: middle;
     }
