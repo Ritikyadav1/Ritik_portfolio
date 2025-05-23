@@ -221,7 +221,7 @@ span{
 .portfolio-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 2.5rem;
+    gap: 2rem;
     align-items: center;
     /* margin: 3rem 10rem 3rem 10rem; */
 }
@@ -231,8 +231,8 @@ span{
     border-radius: 2rem;
     display: flex;
     box-shadow: 0 0 1rem var(--bg-color);
-    width: 50rem ;
-    height: 32rem;
+    width: 40rem ;
+    height: 28rem;
 }
 .portfolio-box img{
     width: 100%;
